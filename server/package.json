@@ -8,7 +8,10 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "contributors": [
+    { "name": "Tùng Uy", "url": "https://github.com/TungUy84" },
+    { "name": "Hoàng Việt", "url": "https://github.com/HoangViet1411" }
+  ],
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

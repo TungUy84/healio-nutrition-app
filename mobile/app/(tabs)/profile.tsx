@@ -381,8 +381,11 @@ export default function ProfileScreen() {
           </View>
         </Animated.View>
 
-        <Text className="text-center text-slate-300 font-black text-[11px] tracking-[4px] uppercase mb-6">
+        <Text className="text-center text-slate-300 font-black text-[11px] tracking-[4px] uppercase mb-2">
           Healio Wellness • v1.0.0
+        </Text>
+        <Text className="text-center text-slate-500 text-xs px-6 mb-6">
+          Phát triển bởi Tùng Uy và Hoàng Việt
         </Text>
       </Animated.ScrollView>
 

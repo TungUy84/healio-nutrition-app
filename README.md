@@ -2,6 +2,15 @@
 
 Graduation Thesis Project - Information Technology
 
+## Project Team
+
+Healio is a graduation thesis project jointly developed by **Tùng Uy** and **Hoàng Việt**.
+
+| Member | GitHub Account | Role |
+| --- | --- | --- |
+| Tùng Uy | `TungUy84` | Project co-developer |
+| Hoàng Việt | `HoangViet1411` | Project co-developer |
+
 ## Project Overview
 
 Healio is an intelligent nutrition management and energy balancing system designed to assist users in dietary tracking, weight management, and health goal optimization. The system integrates scientifically validated nutritional formulas (Mifflin-St Jeor) with Google Gemini AI models to deliver hyper-personalized meal plans, real-time macronutrient distribution, and automated administrative nutrition management.

@@ -2,6 +2,10 @@
   "name": "mobile",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "contributors": [
+    { "name": "Tùng Uy", "url": "https://github.com/TungUy84" },
+    { "name": "Hoàng Việt", "url": "https://github.com/HoangViet1411" }
+  ],
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",

@@ -13,6 +13,9 @@ const AdminLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
                 <main className="flex-1 p-6 overflow-y-auto">
                     {children}
                 </main>
+                <footer className="px-6 py-4 text-center text-xs text-slate-500">
+                    Healio • Phát triển bởi Tùng Uy và Hoàng Việt
+                </footer>
             </div>
         </div>
     );
